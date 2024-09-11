@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.53ff46be.css",
-    "main.js": "/static/js/main.b50b79e2.js",
+    "main.css": "/static/css/main.7633688c.css",
+    "main.js": "/static/js/main.78e69863.js",
     "static/media/aboutimage2.svg": "/static/media/aboutimage2.5a857af31e5416b230908db7d6cc0a47.svg",
     "static/media/aboutimage1.svg": "/static/media/aboutimage1.73ef24e9c0a931546edd2097811db3bb.svg",
     "static/media/frame-img.svg": "/static/media/frame-img.ccc47e8e38ef10d9bb5e19b607c46e64.svg",
     "static/media/bradingicon.svg": "/static/media/bradingicon.d03ba46765cb94ba73b56473d0cca8d3.svg",
+    "static/media/logo.svg": "/static/media/logo.a31507d26829266e4f2c4b46fb66c797.svg",
     "static/media/appicon.svg": "/static/media/appicon.2209955cebb8a346cf73eccb4430fbfe.svg",
     "static/media/mobileicon.svg": "/static/media/mobileicon.b25681f3e6a441a0061330860740990c.svg",
     "static/media/projectmanagementicon.svg": "/static/media/projectmanagementicon.2d2423cb45b38df0211f53d061a0b4dc.svg",
@@ -50,6 +51,7 @@
     "static/media/figma-icon.svg": "/static/media/figma-icon.c820af3e50201a1cdedafc198d03a92b.svg",
     "static/media/insta.svg": "/static/media/insta.9438951c582ef46bd8481566272f618f.svg",
     "static/media/envlop.svg": "/static/media/envlop.4bc070021b7d8003507f41425b29e5c9.svg",
+    "static/media/kotlin-icon.svg": "/static/media/kotlin-icon.2d47a2624cb19d2184b3c975b78a6455.svg",
     "static/media/reacticon.svg": "/static/media/reacticon.8175049bfa4c825686a03c4c12bd8a90.svg",
     "static/media/reactnativeicon.svg": "/static/media/reactnativeicon.8175049bfa4c825686a03c4c12bd8a90.svg",
     "static/media/angularicon.svg": "/static/media/angularicon.231414132fe3365c9c347fe3e6bf23f6.svg",
@@ -66,11 +68,11 @@
     "static/media/facebook.svg": "/static/media/facebook.8842bd80c7cf54c6a2cbd333ca87e860.svg",
     "static/media/kotlinicon.svg": "/static/media/kotlinicon.4af1892ff97000aa968314846946e6e1.svg",
     "static/media/vuejs-icon.svg": "/static/media/vuejs-icon.3095fef6a69c1c1f86b3c38f1866099f.svg",
-    "main.53ff46be.css.map": "/static/css/main.53ff46be.css.map",
-    "main.b50b79e2.js.map": "/static/js/main.b50b79e2.js.map"
+    "main.7633688c.css.map": "/static/css/main.7633688c.css.map",
+    "main.78e69863.js.map": "/static/js/main.78e69863.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ff46be.css",
-    "static/js/main.b50b79e2.js"
+    "static/css/main.7633688c.css",
+    "static/js/main.78e69863.js"
   ]
 }
